@@ -1,0 +1,7 @@
+Python 80%
+C++ 17 %
+Git 20 %
+GitHub 25%
+Yootube 70 %
+Gestion de videos 60 %
+Qt 17 %
